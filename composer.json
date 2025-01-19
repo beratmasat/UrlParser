@@ -1,0 +1,21 @@
+{
+    "name": "beratmasat/url-parser",
+    "description": "Simply parse and manipulate URLs in PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Beratmasat\\UrlParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Berat MASAT",
+            "email": "beratmasat.49@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "pestphp/pest": "*"
+    }
+}
